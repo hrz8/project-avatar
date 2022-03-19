@@ -3,3 +3,4 @@
 - katara
 - appa
 - momo
+- toph
